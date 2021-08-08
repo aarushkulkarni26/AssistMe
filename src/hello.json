@@ -1,0 +1,43 @@
+{
+  "_delegate": {
+    "app": {
+      "name": "[DEFAULT]",
+      "automaticDataCollectionEnabled": false,
+      "options": {
+        "apiKey": "AIzaSyDSnFVMPT1ME_c_kYEUYg46KLtj1vcKwFU",
+        "authDomain": "quellie-hacks.firebaseapp.com",
+        "projectId": "quellie-hacks",
+        "storageBucket": "quellie-hacks.appspot.com",
+        "messagingSenderId": "475942591251",
+        "appId": "1:475942591251:web:9f0f6862cbdb865e2218e6"
+      }
+    },
+    "databaseId": {
+      "projectId": "quellie-hacks",
+      "database": "(default)"
+    },
+    "settings": {
+      "host": "firestore.googleapis.com",
+      "ssl": true,
+      "ignoreUndefinedProperties": false,
+      "cacheSizeBytes": 41943040,
+      "experimentalForceLongPolling": false,
+      "experimentalAutoDetectLongPolling": false,
+      "useFetchStreams": false
+    }
+  },
+  "Zc": {},
+  "INTERNAL": {},
+  "tu": {
+    "name": "[DEFAULT]",
+    "automaticDataCollectionEnabled": false,
+    "options": {
+      "apiKey": "AIzaSyDSnFVMPT1ME_c_kYEUYg46KLtj1vcKwFU",
+      "authDomain": "quellie-hacks.firebaseapp.com",
+      "projectId": "quellie-hacks",
+      "storageBucket": "quellie-hacks.appspot.com",
+      "messagingSenderId": "475942591251",
+      "appId": "1:475942591251:web:9f0f6862cbdb865e2218e6"
+    }
+  }
+}
